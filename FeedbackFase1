@@ -1,0 +1,12 @@
+Grupo 4
+
+Modelo de Domínio:
+- Uma entidade Função teria sido relevante para não ter que especificar "Fritador", etc. Seria mais genérico e completo.
+- Parece faltar uma entidade que represente a etapa de confeção de determinado pedido.
+
+Modelo de Use Cases:
+- não parece muito relevante ter todos aqueles actores no diagrama.
+- no Use Case "Gerir execução de pedido" o fluxo de excepção não corresponde a uma excepção, porque a pós-condição vai acabar por se verificar 
+- COO analisa indicadores é algo que não é parte do sistema. É feito fora do mesmo.
+
+
